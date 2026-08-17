@@ -1,0 +1,28 @@
+{
+  "name": "GoMixAPI - Singapore Low-Latency Profile",
+  "version": "0.1.0",
+  "description": "OpenAI-compatible endpoint with 20+ Chinese frontier models, Singapore-native nodes, HK-licensed compliance, zero data retention.",
+  "endpoint": "https://api.gomixapi.com/v1",
+  "models": [
+    "deepseek-v4-flash-202605",
+    "deepseek-v4-pro-202606",
+    "glm-5.1",
+    "glm-5.2",
+    "glm-5v-turbo",
+    "glm-5-turbo",
+    "hy-mt2-plus",
+    "dola-Seed-2.0-mini",
+    "dola-Seed-2.0-lite",
+    "dola-Seed-2.0-pro",
+    "qwen3.5-flash",
+    "qwq-plus",
+    "qwen3.6-flash",
+    "qwen3.5-plus",
+    "qwen3.7-plus",
+    "qwen3.7-plus-1m",
+    "qwen3-vl-plus",
+    "dola-Seed-2.1-turbo",
+    "hy3",
+    "kimi-k3"
+  ]
+}
