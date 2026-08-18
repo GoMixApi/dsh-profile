@@ -1,6 +1,6 @@
 {
   "name": "GoMixAPI - Singapore Low-Latency Profile",
-  "version": "0.1.0",
+  "version": "0.5.0",
   "description": "OpenAI-compatible endpoint with 20+ Chinese frontier models, Singapore-native nodes, HK-licensed compliance, zero data retention.",
   "endpoint": "https://api.gomixapi.com/v1",
   "models": [
