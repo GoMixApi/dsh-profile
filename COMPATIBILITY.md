@@ -22,3 +22,13 @@
 | dola-Seed-2.1-turbo | 0.7 | 3.5 | OK | OK | OK | OK |
 | hy3 | 0.4 | 1.6 | OK | OK | OK | OK |
 | kimi-k3 | 5.5 | 31.0 | OK | OK | OK | OK |
+
+## DSH Version Compatibility
+
+Tested with:
+- DSH v0.1 Developer Preview (initial release)
+- DSH RC8 pre-release (OpenAI-compatible endpoint still works)
+
+The GoMixAPI profile operates at the OpenAI-compatible model layer.
+DSH framework updates (subagents, unattended mode, multimodal commands)
+do not affect model endpoint compatibility.
